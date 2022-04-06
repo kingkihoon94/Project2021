@@ -1,0 +1,23 @@
+{
+  "name": "PlayingCard NFT #137",
+  "description": "PlayingCard NFT is Awesome!!",
+  "image": "ipfs://NewUriToReplace/137.png",
+  "dna": "d1174a9c03e70315da82046d5a1acecf3843e0da",
+  "edition": 137,
+  "date": 1649231189835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Body",
+      "value": "5"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PlayingCard NFT #12",
+  "description": "PlayingCard NFT is Awesome!!",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "cf6f409e7cba9237f546dd327e26e049df5f23f4",
+  "edition": 12,
+  "date": 1649231187557,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "TypeAll"
+    },
+    {
+      "trait_type": "Body",
+      "value": "6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
